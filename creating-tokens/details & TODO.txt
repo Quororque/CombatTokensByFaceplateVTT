@@ -3,11 +3,8 @@ resize 1024 -> 608
 
 TODO:
 elite-primary righthand
-stealth-secondary
-stealth-tertiary
-light everything
 shield
 female version
 
 
-junkieharry
+rest of the criminals
