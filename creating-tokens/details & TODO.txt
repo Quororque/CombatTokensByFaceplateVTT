@@ -1,10 +1,22 @@
 resize 1024 -> 608
 1 degree tilt inwards
+add mesh + cone
 
-TODO:
-elite-primary righthand
-shield
-female version
+MISSING STATES:
 
+RIGHT-HAND:
+businessben
+heroinharry
+operatororville
+elite
+elite-bald
+juggernaut
 
-rest of the criminals
+LEFT-HAND:
+baldbruce
+jacketjack
+light
+
+OTHER:
+shield - for all law
+female variants
