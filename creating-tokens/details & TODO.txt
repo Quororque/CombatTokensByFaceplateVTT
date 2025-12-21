@@ -16,6 +16,7 @@ LEFT-HAND:
 baldbruce
 jacketjack
 light
+sinistersuzy
 
 OTHER:
 shield - for all law
