@@ -3,21 +3,4 @@ resize 1024 -> 608
 add mesh + cone
 
 MISSING STATES:
-
-RIGHT-HAND:
-businessben
-heroinharry
-operatororville
-elite
-elite-bald
-juggernaut
-
-LEFT-HAND:
-baldbruce
-jacketjack
-light
-sinistersuzy
-
-OTHER:
-shield - for all law
-female variants
+sinistersuzy - lefthand primary
