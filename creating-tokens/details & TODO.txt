@@ -3,4 +3,3 @@ resize 1024 -> 608
 add mesh + cone
 
 MISSING STATES:
-sinistersuzy - lefthand primary
